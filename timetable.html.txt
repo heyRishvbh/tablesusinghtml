@@ -1,0 +1,68 @@
+<html>
+    <thead>
+        <title>Time Table</title>
+    </thead>
+
+    <tbody>
+        <table border="2" cellspacing="0" cellpadding="8">
+            <tr>
+                <th colspan="6">Time Table</th>
+            </tr>
+            <tr>
+                <th rowspan="8">Hours</th>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+            </tr>
+
+            <tr>
+                <td rowspan="2">Architecture Lab</td>
+                <td>IT Service Mgmt</td>
+                <td>Programming C</td>
+                <td>Programming C</td>
+                <td>IT Service Mgmt</td>
+            </tr>
+
+            <tr>
+                <td>EVS</td>
+                <td>IT Service Mgmt</td>
+                <td>EVS</td>
+                <td>Computer Architecture</td>
+            </tr>
+
+            <tr>
+                <td rowspan="2">Problem Solving Techniquue</td>
+                <td rowspan="2">General English</td>
+                <td>IKS</td>
+                <td>IKS</td>
+                <td>Programming C</td>
+            </tr>
+
+            <tr>
+                <td>Problem Solving Technique</td>
+                <td>Computer Architecture</td>
+                <td>Programming C</td>
+            </tr>
+            
+            <tr>
+                <th colspan="8">Break</th>
+            </tr>
+
+            <tr>
+                <td>EVS</td>
+                <td>Itsm</td>
+                <td rowspan="2">Soft Skills</td>
+                <td rowspan="2">Programming Solving Lab</td>
+                <td rowspan="2">Skill Enhancement</td>
+
+            </tr>
+
+            <tr>
+                <td rowspan="2">Skill Enhancement</td>
+                <td rowspan="2">Programming Solving Lab</td>
+            </tr>
+        </table>
+    </tbody>
+</html>
